@@ -1,3 +1,4 @@
+
 $(document).ready(function () {
 
     // #btnTop 按鈕點擊事件
@@ -29,4 +30,3 @@ $(document).ready(function () {
         }
     });
 });
-© 2019 GitHub, Inc.
