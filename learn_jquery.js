@@ -12,7 +12,7 @@ $(document).ready(function () {
     $("h2").hide();                 // 選取 h2 並隱藏
 
     $("#box1").addClass("gold");    // 選取 #box1 並添加類別 gold
-
+    $("#box2").slideUp(2000).slideDown(3000);   // 選取 #box2 並添加滑上與滑下效果
 });
 
 // 函式、方法
